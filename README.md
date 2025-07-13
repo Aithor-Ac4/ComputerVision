@@ -6,7 +6,8 @@ Automatiza el análisis de vídeo mediante detección de jugadores usando IA con
   <img src="./RM_BOR - IA_1.png" alt="Frame 1" width="30%" />
   <img src="./RM_BOR - IA_2.png" alt="Frame 2" width="30%" />
   <img src="./RM_BOR - IA_3.png" alt="Frame 3" width="30%" />
-</p>
+  <img src="./Doncic_Lakers.1.png" alt="Frame 1" width="30%" /> 
+  <img src="./Doncic_Lakers.2.png" alt="Frame 2" width="30%" /> 
 
 ## 🎯 Objetivo
 
