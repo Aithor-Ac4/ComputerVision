@@ -1,4 +1,4 @@
-# 🧠 Computer Vision para Scouting y Análisis Táctico en Fútbol
+# 🧠 Computer Vision para Scouting y Análisis Táctico
 
 Automatiza el análisis de vídeo mediante detección de jugadores usando IA con modelos preentrenados. Este proyecto permite extraer información estructurada (coordenadas, eventos) en segundos sin necesidad de entrenar modelos desde cero.
 
